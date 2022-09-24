@@ -7,7 +7,7 @@
 	},
 	"item": [
 		{
-			"name": "Get All Boards",
+			"name": "Get All Boards in trello",
 			"event": [
 				{
 					"listen": "test",
